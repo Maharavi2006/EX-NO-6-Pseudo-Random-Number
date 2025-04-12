@@ -8,8 +8,6 @@ Implementation of Pseudorandom Number Generation Using Standard library
 
 # PROGRAM
 ```
-NAME: J.NETHRAA
-REG NO: 212222100031
 
 #include <stdio.h>
 #include <stdlib.h>
